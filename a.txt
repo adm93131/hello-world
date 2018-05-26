@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 aaa
-bbbb
-ccccc
-=======
 ddd
->>>>>>> dev
